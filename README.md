@@ -20,6 +20,13 @@ show_message(Get(nested_array, 2, 0)); //9
 show_message(Get(nested_array, 2, 1)); //16
 ```
 
+## Installation
+
+- Download `UniversalGetSet.zip` from the [Releases page](https://github.com/dicksonlaw583/UniversalGetSet-2.x/releases).
+- Unzip `UniversalGetSet.zip` to a temporary location.
+- In GMS 2.x, right-click on Extensions, then select Add Existing.
+- Select the main `UniversalGetSet.yy` file and confirm.
+
 ## Functions
 
 - `Get(array_or_ds, ...)`: Search the array or data structure recursively using the indexes in order, then return the value found there.
