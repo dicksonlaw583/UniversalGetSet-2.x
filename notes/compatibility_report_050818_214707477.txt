@@ -1,0 +1,203 @@
+Converting GML script: ${project_dir}\scripts\__gma_assert_error__\__gma_assert_error__.gml
+Converted description /// @description __gma_assert_error__(message, expected, got)/// @param message
+/// @param  expected
+/// @param  got
+
+Converting GML script: ${project_dir}\scripts\__gma_assert_error_simple__\__gma_assert_error_simple__.gml
+Converted description /// @description __gma_assert_error__(message)/// @param message
+
+Converting GML script: ${project_dir}\scripts\__gma_assert_error_raw__\__gma_assert_error_raw__.gml
+Converted description /// @description __gma_assert_error_raw__(message, expected, got)/// @param message
+/// @param  expected
+/// @param  got
+
+Converting GML script: ${project_dir}\scripts\__gma_debug_value__\__gma_debug_value__.gml
+Converted string - line 9: '"' -> "\""
+Converted string - line 9: '"' -> "\""
+Converted string - line 9: '""' -> "\"\""
+Converted string - line 9: '"' -> "\""
+
+Converting GML script: ${project_dir}\scripts\assert\assert.gml
+Converted description /// @description assert(got, [msg])/// @param got
+/// @param  [msg]
+
+Converting GML script: ${project_dir}\scripts\assert_fail\assert_fail.gml
+Converted description /// @description assert_fail(got, [msg])/// @param got
+/// @param  [msg]
+
+Converting GML script: ${project_dir}\scripts\assert_equal\assert_equal.gml
+Converted description /// @description assert_equal(got, expected, [msg])/// @param got
+/// @param  expected
+/// @param  [msg]
+
+Converting GML script: ${project_dir}\scripts\assert_equalish\assert_equalish.gml
+Converted description /// @description assert_equalish(got, expected, [msg])/// @param got
+/// @param  expected
+/// @param  [msg]
+
+Converting GML script: ${project_dir}\scripts\assert_is\assert_is.gml
+Converted description /// @description assert_is(got, expected, [msg])/// @param got
+/// @param  expected
+/// @param  [msg]
+
+Converting GML script: ${project_dir}\scripts\assert_not_equal\assert_not_equal.gml
+Converted description /// @description assert_not_equal(got, expected, [msg])/// @param got
+/// @param  expected
+/// @param  [msg]
+
+Converting GML script: ${project_dir}\scripts\assert_not_equalish\assert_not_equalish.gml
+Converted description /// @description assert_not_equalish(got, expected, [msg])/// @param got
+/// @param  expected
+/// @param  [msg]
+
+Converting GML script: ${project_dir}\scripts\assert_isnt\assert_isnt.gml
+Converted description /// @description assert_isnt(got, expected, [msg])/// @param got
+/// @param  expected
+/// @param  [msg]
+
+Converting GML script: ${project_dir}\scripts\assert_greater_than\assert_greater_than.gml
+Converted description /// @description assert_greater_than(got, expected, [msg])/// @param got
+/// @param  expected
+/// @param  [msg]
+
+Converting GML script: ${project_dir}\scripts\assert_less_than\assert_less_than.gml
+Converted description /// @description assert_less_than(got, expected, [msg])/// @param got
+/// @param  expected
+/// @param  [msg]
+
+Converting GML script: ${project_dir}\scripts\assert_greater_than_or_equal\assert_greater_than_or_equal.gml
+Converted description /// @description assert_greater_than_or_equal(got, expected, [msg])/// @param got
+/// @param  expected
+/// @param  [msg]
+
+Converting GML script: ${project_dir}\scripts\assert_less_than_or_equal\assert_less_than_or_equal.gml
+Converted description /// @description assert_less_than_or_equal(got, expected, [msg])/// @param got
+/// @param  expected
+/// @param  [msg]
+
+Converting GML script: ${project_dir}\scripts\assert_is_string\assert_is_string.gml
+Converted description /// @description assert_is_string(got, [msg])/// @param got
+/// @param  [msg]
+
+Converting GML script: ${project_dir}\scripts\assert_is_real\assert_is_real.gml
+Converted description /// @description assert_is_real(got, [msg])/// @param got
+/// @param  [msg]
+
+Converting GML script: ${project_dir}\scripts\assert_is_array\assert_is_array.gml
+Converted description /// @description assert_is_array(got, [msg])/// @param got
+/// @param  [msg]
+
+Converting GML script: ${project_dir}\scripts\assert_is_defined\assert_is_defined.gml
+Converted description /// @description assert_is_defined(got, [msg])/// @param got
+/// @param  [msg]
+
+Converting GML script: ${project_dir}\scripts\assert_isnt_string\assert_isnt_string.gml
+Converted description /// @description assert_isnt_string(got, [msg])/// @param got
+/// @param  [msg]
+
+Converting GML script: ${project_dir}\scripts\assert_isnt_real\assert_isnt_real.gml
+Converted description /// @description assert_isnt_real(got, [msg])/// @param got
+/// @param  [msg]
+
+Converting GML script: ${project_dir}\scripts\assert_isnt_array\assert_isnt_array.gml
+Converted description /// @description assert_isnt_array(got, [msg])/// @param got
+/// @param  [msg]
+
+Converting GML script: ${project_dir}\scripts\assert_isnt_defined\assert_isnt_defined.gml
+Converted description /// @description assert_isnt_defined(got, [msg])/// @param got
+/// @param  [msg]
+
+Converting GML script: ${project_dir}\scripts\assert_in_range\assert_in_range.gml
+Converted description /// @description assert_in_range(got, lower, upper, [msg])/// @param got
+/// @param  lower
+/// @param  upper
+/// @param  [msg]
+
+Converting GML script: ${project_dir}\scripts\assert_not_in_range\assert_not_in_range.gml
+Converted description /// @description assert_not_in_range(got, lower, upper, [msg])/// @param got
+/// @param  lower
+/// @param  upper
+/// @param  [msg]
+
+Converting GML script: ${project_dir}\scripts\assert_contains\assert_contains.gml
+Converted description /// @description assert_contains(got, content, [msg]);/// @param got
+/// @param  content
+/// @param  [msg]
+
+Converting GML script: ${project_dir}\scripts\assert_contains_exact\assert_contains_exact.gml
+Converted description /// @description assert_contains_exact(got, content, [msg]);/// @param got
+/// @param  content
+/// @param  [msg]
+
+Converting GML script: ${project_dir}\scripts\assert_doesnt_contain\assert_doesnt_contain.gml
+Converted description /// @description assert_doesnt_contain(got, content, [msg]);/// @param got
+/// @param  content
+/// @param  [msg]
+
+Converting GML script: ${project_dir}\scripts\assert_doesnt_contain_exact\assert_doesnt_contain_exact.gml
+Converted description /// @description assert_doesnt_contain_exact(got, content, [msg]);/// @param got
+/// @param  content
+/// @param  [msg]
+
+Converting GML script: ${project_dir}\scripts\Array\Array.gml
+Converted description /// @description Array(...)/// @param ...
+
+Converting GML script: ${project_dir}\scripts\Array2\Array2.gml
+Converted description /// @description Array2(height, length, ...)/// @param height
+/// @param  length
+/// @param  ...
+
+Converting GML script: ${project_dir}\scripts\Grid\Grid.gml
+Converted description /// @description Grid(width, height, ...)/// @param width
+/// @param  height
+/// @param  ...
+
+Converting GML script: ${project_dir}\scripts\JsonData\JsonData.gml
+Converted description /// @description JsonData(source)/// @param source
+
+Converting GML script: ${project_dir}\scripts\JsonList\JsonList.gml
+Converted description /// @description JsonList(...)/// @param ...
+
+Converting GML script: ${project_dir}\scripts\JsonMap\JsonMap.gml
+Converted description /// @description JsonMap(...)/// @param ...
+
+Converting GML script: ${project_dir}\scripts\List\List.gml
+Converted description /// @description List(...)/// @param ...
+
+Converting GML script: ${project_dir}\scripts\Map\Map.gml
+Converted description /// @description Map(...)/// @param ...
+
+Converting GML script: ${project_dir}\scripts\PriorityQueue\PriorityQueue.gml
+Converted description /// @description PriorityQueue(...)/// @param ...
+
+Converting GML script: ${project_dir}\scripts\Queue\Queue.gml
+Converted description /// @description Queue(...)/// @param ...
+
+Converting GML script: ${project_dir}\scripts\Stack\Stack.gml
+Converted description /// @description Stack(...)/// @param ...
+
+Converting GML script: ${project_dir}\scripts\getset_test_all\getset_test_all.gml
+Converted description /// @description getset_test_all()
+
+Converting GML script: ${project_dir}\scripts\getset_test_get\getset_test_get.gml
+Converted description /// @description getset_test_get()
+
+Converting GML script: ${project_dir}\scripts\getset_test_set\getset_test_set.gml
+Converted description /// @description getset_test_set()
+
+Converting GML script: UniversalGetSet.gml
+Converted description /// @description Get(array_or_ds, ...)/// @param array_or_ds
+/// @param  ...
+
+Converting GML script: UniversalGetSet.gml
+Converted description /// @description Set(array_or_ds, ..., value)/// @param array_or_ds
+/// @param  ...
+/// @param  value
+
+Converting GML script: UniversalGetSet.gml
+Converted description /// @description Pos(x, y)/// @param x
+/// @param  y
+
+macOS icon ${options_dir}\mac\icons\icon512.png written out as 32-bit
+Windows NSIS Installer Script has been set to default due to changes in GameMaker Studio 2
+Game speed set to 30

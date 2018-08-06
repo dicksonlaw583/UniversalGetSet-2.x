@@ -1,0 +1,1 @@
+getset_test_all();
