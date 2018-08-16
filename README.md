@@ -31,7 +31,7 @@ show_message(Get(nested_array, 2, 1)); //16
 
 - `Get(array_or_ds, ...)`: Search the array or data structure recursively using the indexes in order, then return the value found there.
 - `Set(array_or_ds, ..., newvalue)`: Search the array or data structure recursively using the indexes in order, then set the value there to the new value.
-- `Pos(i, j)`: (legacy holdover from GMS 1.4 version) Return a 2-entry array containing `i` and `j` in that order. For use as a position index in a 2D array or grid.
+- `Pos(i, j)`: Return a 2-entry array containing `i` and `j` in that order. For use as a position index in a 2D array or grid.
 
 ### Position Index Format
 
@@ -52,8 +52,8 @@ show_message(Get(nested_array, 2, 1)); //16
 - Run the project to test your additions.
 - Open a pull request.
 
-## License
+## License and Credits
 
-The 3 main scripts (`Get`, `Set`, `Pos`) are hereby released into the public domain.
+The 3 main scripts (`Get`, `Set`, `Pos`) are hereby released into the public domain. Special thanks to Vadim Dyachenko (YellowAfterlife) for his efficiency contributions to the library.
 
 The tests for the main scripts are written using [GMAssert](https://github.com/dicksonlaw583/gmassert) and [GMSugar](https://github.com/dicksonlaw583/gmsugar).
