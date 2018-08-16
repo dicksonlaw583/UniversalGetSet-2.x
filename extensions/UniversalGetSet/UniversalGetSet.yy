@@ -36,7 +36,7 @@
                     "mvc": "1.0",
                     "constantName": "stack_top",
                     "hidden": false,
-                    "value": "[2]"
+                    "value": "global.g_stack_top"
                 },
                 {
                     "id": "fe36290e-5d98-45d3-83b0-92ad03a210ba",
@@ -44,7 +44,7 @@
                     "mvc": "1.0",
                     "constantName": "queue_head",
                     "hidden": false,
-                    "value": "[3]"
+                    "value": "global.g_queue_head"
                 },
                 {
                     "id": "93b0cbfd-7f18-4487-90b7-1f9837fac76c",
@@ -52,7 +52,7 @@
                     "mvc": "1.0",
                     "constantName": "pq_min",
                     "hidden": false,
-                    "value": "[0]"
+                    "value": "global.g_pq_min"
                 },
                 {
                     "id": "210afbb0-c887-40c8-8509-ba221a21d963",
@@ -60,7 +60,7 @@
                     "mvc": "1.0",
                     "constantName": "pq_max",
                     "hidden": false,
-                    "value": "[1]"
+                    "value": "global.g_pq_max"
                 }
             ],
             "copyToTargets": 9223372036854775807,
