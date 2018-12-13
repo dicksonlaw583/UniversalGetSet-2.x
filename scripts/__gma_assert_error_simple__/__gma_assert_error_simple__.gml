@@ -1,4 +1,4 @@
-/// @description __gma_assert_error__(message)
+/// @description __gma_assert_error_simple__(message)
 /// @param message
 {
   switch (GMASSERT_MODE) {
